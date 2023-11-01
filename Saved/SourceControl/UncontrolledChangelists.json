@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/unreal/Precek_bludiste/Content/Levels/Maze.umap",
+				"D:/unreal/Precek_bludiste/Content/Textures/25496.uasset",
+				"D:/unreal/Precek_bludiste/Content/Blueprints/GUI/HUD.uasset",
+				"D:/unreal/Precek_bludiste/Content/Textures_and_Materials/background-made-from-bricks_Mat.uasset",
+				"D:/unreal/Precek_bludiste/Content/Textures_and_Materials/background-made-from-bricks.uasset",
+				"D:/unreal/Precek_bludiste/Content/Textures_and_Materials/concrete-wall.uasset",
+				"D:/unreal/Precek_bludiste/Content/Textures_and_Materials/concrete-wall_Mat.uasset",
+				"D:/unreal/Precek_bludiste/Content/Textures/concrete-wall_Mat.uasset",
+				"D:/unreal/Precek_bludiste/Content/Textures_and_Materials/25496.uasset",
+				"D:/unreal/Precek_bludiste/Content/LevelPrototyping/Materials/MI_Solid_Blue.uasset",
+				"D:/unreal/Precek_bludiste/Content/Blueprints/GUI/WB_HUD.uasset",
+				"D:/unreal/Precek_bludiste/Content/Blueprints/BP_door.uasset",
+				"D:/unreal/Precek_bludiste/Content/Textures_and_Materials/DoorMaterial.uasset",
+				"D:/unreal/Precek_bludiste/Content/Blueprints/BP_blueButton.uasset",
+				"D:/unreal/Precek_bludiste/Content/Blueprints/BPI_Interactable.uasset",
+				"D:/unreal/Precek_bludiste/Content/Blueprints/BP_Button_generic.uasset",
+				"D:/unreal/Precek_bludiste/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/unreal/Precek_bludiste/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/unreal/Precek_bludiste/Content/Blueprints/BP_winBox.uasset",
+				"D:/unreal/Precek_bludiste/Content/Blueprints/GUI/WB_objective.uasset",
+				"D:/unreal/Precek_bludiste/Content/Blueprints/GUI/WB_winmsg.uasset",
+				"D:/unreal/Precek_bludiste/Content/Textures_and_Materials/lavaMaterial.uasset",
+				"D:/unreal/Precek_bludiste/Content/Blueprints/BP_lava.uasset",
+				"D:/unreal/Precek_bludiste/Content/Textures_and_Materials/marbled-yellow-orange-abstract-background.uasset"
+			]
+		}
+	]
+}
